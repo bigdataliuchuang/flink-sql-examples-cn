@@ -26,6 +26,7 @@
 - Website: 可以先留空，后续如果写文章合集或文档站再补
 - Description: 使用上面的仓库描述
 - Social preview: 使用 `assets/repo-cover.svg`
+- Launch copy: 使用 [launch-posts.md](./launch-posts.md)
 
 ## 首次发布建议文案
 

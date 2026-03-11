@@ -12,3 +12,4 @@ All notable changes to this project will be documented in this file.
 - GitHub Issue and PR templates for lightweight maintenance
 - Case template and indexed case map
 - Repository cover asset and launch guidance for future standalone release
+- Launch post templates for GitHub, Juejin, and CSDN
