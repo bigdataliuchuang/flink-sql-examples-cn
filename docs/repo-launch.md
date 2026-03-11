@@ -30,6 +30,8 @@
 
 ## 首次发布建议文案
 
+长文版首发文章可直接参考 [first-article.md](./first-article.md)。
+
 ### 中文短描述
 
 `一个中文优先的 Flink SQL 实战案例库，聚焦窗口指标、去重、TopN、双流 Join 等高频业务场景。`
