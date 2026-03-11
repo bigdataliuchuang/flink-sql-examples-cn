@@ -14,3 +14,4 @@ All notable changes to this project will be documented in this file.
 - Repository cover asset and launch guidance for future standalone release
 - Launch post templates for GitHub, Juejin, and CSDN
 - First long-form launch article draft for public publishing
+- Second technical article draft focused on learning path and high-frequency scenarios

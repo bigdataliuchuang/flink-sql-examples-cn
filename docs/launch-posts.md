@@ -3,6 +3,7 @@
 这个文档提供一组可以直接复制后稍作修改就发布的首发文案，覆盖 GitHub、掘金、CSDN 和朋友圈/社群短文案。
 
 如果你要发长文，直接参考 [first-article.md](./first-article.md)。
+如果你要发第二篇更技术向的文章，直接参考 [second-article.md](./second-article.md)。
 
 ## GitHub About
 

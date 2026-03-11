@@ -31,6 +31,7 @@
 ## 首次发布建议文案
 
 长文版首发文章可直接参考 [first-article.md](./first-article.md)。
+首发后的第二篇技术文章可直接参考 [second-article.md](./second-article.md)。
 
 ### 中文短描述
 
