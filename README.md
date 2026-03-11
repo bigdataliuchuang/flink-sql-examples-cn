@@ -48,6 +48,28 @@ The project is designed for learning, sharing, and fast local experimentation.
 - 独立初始化说明：[`docs/standalone-init.md`](./docs/standalone-init.md)
 - 变更记录：[`CHANGELOG.md`](./CHANGELOG.md)
 
+## 文章入口
+
+如果你想先通过文章了解仓库，再回来看案例，建议按这个顺序阅读：
+
+### 已发布
+
+- 掘金首发文章：
+  [从“会语法”到“会写业务 SQL”：我开源了一个 Flink SQL 中文实战案例库](https://juejin.cn/post/7615551904538181674)
+- CSDN 首发文章：
+  [我开源了一个中文 Flink SQL 实战案例库，聚焦窗口指标、去重、TopN 和双流 Join](https://blog.csdn.net/weixin_44751637/article/details/158924281)
+
+### 仓库内文章草稿
+
+- 首发长文：
+  [`docs/first-article.md`](./docs/first-article.md)
+- 第二篇技术文章：
+  [`docs/second-article.md`](./docs/second-article.md)
+- 第三篇面试向文章：
+  [`docs/third-article.md`](./docs/third-article.md)
+- 短文案与平台发布文案：
+  [`docs/launch-posts.md`](./docs/launch-posts.md)
+
 ## 为什么做这个仓库
 
 很多 Flink SQL 教程存在几个共同问题：
