@@ -4,6 +4,7 @@
 
 如果你要发长文，直接参考 [first-article.md](./first-article.md)。
 如果你要发第二篇更技术向的文章，直接参考 [second-article.md](./second-article.md)。
+如果你要发第三篇更偏面试搜索流量的文章，直接参考 [third-article.md](./third-article.md)。
 
 ## GitHub About
 

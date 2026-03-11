@@ -32,6 +32,7 @@
 
 长文版首发文章可直接参考 [first-article.md](./first-article.md)。
 首发后的第二篇技术文章可直接参考 [second-article.md](./second-article.md)。
+第三篇偏面试流量的文章可直接参考 [third-article.md](./third-article.md)。
 
 ### 中文短描述
 
