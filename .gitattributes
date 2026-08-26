@@ -1,3 +1,8 @@
+# GitHub Linguist 默认把 SQL 归为 data 类型，不计入仓库语言统计。
+# 本仓库主体就是 SQL，强制让它参与统计。
+*.sql linguist-detectable=true
+*.sql linguist-language=SQL
+
 * text=auto eol=lf
 
 *.md text eol=lf
